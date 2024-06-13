@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/edgexfoundry/go-mod-registry/v3/pkg/types"
+	"github.com/denniskertis/go-mod-registry/v42/pkg/types"
 )
 
 var registryConfig = types.Config{

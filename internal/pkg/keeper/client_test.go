@@ -17,9 +17,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/common"
+	"github.com/denniskertis/go-mod-core-contracts/v42/common"
 
-	"github.com/edgexfoundry/go-mod-registry/v3/pkg/types"
+	"github.com/denniskertis/go-mod-registry/v42/pkg/types"
 )
 
 const (

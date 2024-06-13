@@ -15,11 +15,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/dtos"
-	dtoCommon "github.com/edgexfoundry/go-mod-core-contracts/v3/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/dtos/requests"
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/dtos/responses"
+	"github.com/denniskertis/go-mod-core-contracts/v42/common"
+	"github.com/denniskertis/go-mod-core-contracts/v42/dtos"
+	dtoCommon "github.com/denniskertis/go-mod-core-contracts/v42/dtos/common"
+	"github.com/denniskertis/go-mod-core-contracts/v42/dtos/requests"
+	"github.com/denniskertis/go-mod-core-contracts/v42/dtos/responses"
 )
 
 type MockKeeper struct {
