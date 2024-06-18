@@ -1,4 +1,4 @@
-module github.com/edgexfoundry/go-mod-registry/v3
+module github.com/denniskertis/go-mod-registry/v42
 
 go 1.21
 
